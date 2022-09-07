@@ -1,6 +1,4 @@
 
-cheking  git revert latest updated commends are working or not
-
 hi havwe created new test practise case
 
 
