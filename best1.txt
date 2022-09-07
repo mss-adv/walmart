@@ -1,3 +1,6 @@
 hi this the test case for linix commands log rever reset show clean
 
-and how to add and how to remove `
+and how to add and how to remove 
+
+editing first time
+`
